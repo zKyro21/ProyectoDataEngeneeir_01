@@ -1,3 +1,6 @@
+## Direccion URL del deploy
+https://qabmag.deta.dev/docs
+
 ## Funcionamiento
 
 Las consultas realizadas en esta API se basan en mascaras sobre un dataframe con los datos de sobre las plataformas de streaming mas populares para facilitar la busqueda y recaudacion de información de manera especifica.
